@@ -244,11 +244,13 @@ body{
 .nav-main .logo a{
   padding: 10px 7px;
   line-height: 100px;
-  font-size: 1.1em;
   color: #DAA520;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  text-decoration: none;
 }
 
-.nav-main a{
+.nav-bar a{
   line-height: 100px;
   text-decoration: none;
   color: white;
@@ -257,13 +259,13 @@ body{
   padding: 10px 7px;
 }
 
-.nav-main ul{
+.nav-bar{
   display: -ms-flexbox;
   display: flex;
   line-height: 100px;
 }
 
-.nav-main li:nth-of-type(1){
+.nav-bar li:nth-of-type(1){
   margin-right: 25px;
 }
 
@@ -565,14 +567,8 @@ body{
 
 @media screen and (max-width: 1175px){
 
-  .wrapper{
-    width: 92%;
-  }
-
-  .nav-main{
-    width: 92%;
-  }
-
+  .wrapper,
+  .nav-main,
   .about-inner-wrapper{
     width: 92%;
   }
@@ -585,12 +581,9 @@ body{
     width: 92%;
   }
 
-  .header-info{
-    width: 50% ;
-  }
-
+  .header-info,
   .header-logo{
-    width: 50%;
+    width: 50% ;
   }
 
 }
@@ -609,13 +602,9 @@ body{
 
 @media screen and (max-width: 1020px){
 
-  .header-info{
-    width: 57% ;
-  }
-
+  .header-info,
   .header-logo{
-    width: 57%;
-
+    width: 57% ;
   }
 
   .process-wrapper{
@@ -627,18 +616,14 @@ body{
     margin-bottom: 30px;
   }
 
-
 }
 
 @media screen and (max-width: 895px){
 
-  .header-info{
-    width: 63% ;
-  }
-
+  .header-info,
   .header-logo{
-    width: 63%;
-  }
+    width: 63% ;
+  }  
 
   .title-p p{
     width: 65%;
@@ -658,12 +643,9 @@ body{
     width: 87%;
   }
 
-  .header-info{
-    width: 70% ;
-  }
-
+  .header-info,
   .header-logo{
-    width: 70%;
+    width: 70% ;
   }
 
   .title-p p{
@@ -680,47 +662,66 @@ body{
     margin-right: 2.5%;
   }
 
-  .header-info{
-    width: 78% ;
-  }
-
+  .header-info,
   .header-logo{
-    width: 78%;
+    width: 78% ;
   }
 
   .group{
     width: 50%;
   }
 
-
 }
 
 @media screen and (max-width: 645px){
 
   .nav-main{
-    bottom: 0;
-    position: fixed;
-    width: 100%;
-    z-index: 9000;
-    height: 70px;
-    background-color: black;
+  -ms-flex-pack: center;  
+  justify-content: center;
+    height: 65px;
   }
 
   .nav-main .logo a{
-    display: none;
+    line-height: 65px;
   }
 
-  .nav-main a{
-    line-height: 70px;
-    background-color: pink;
+  .nav-bar{
+    line-height: 65px;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 9000;
+    background-color: black;
+      -ms-flex-pack: center;  
+      justify-content: center;
   }
 
-  .nav-main ul{
-    line-height: 70px;
+  .nav-bar a{
+    line-height: 65px;
+    padding: 15px 115px;
+  }
+
+  .btn-menu{
+    padding: 15px 115px;
+  }
+
+  .btn-menu:focus,
+  .btn-menu:active,
+  .btn-menu:hover,
+  .nav-main a:focus,
+  .nav-main a:active,
+  .nav-main a:hover{
+    outline: none;
   }
 
   .about-content{
     width: 86%;
+  }
+
+  .about-content h2{
+    font-size: 2.8em;
+    padding: 18px 0;
   }
 
   #branding{
@@ -780,30 +781,47 @@ body{
 
 }
 
-@media screen and (max-width: 545px){
+@media screen and (max-width: 600px){
 
-  .header-info{
-      width: 85% ;
+  .nav-bar a,
+  .btn-menu{
+    padding: 15px 105px;
   }
 
+}
+
+@media screen and (max-width: 550px){
+
+  .nav-bar a,
+  .btn-menu{
+    padding: 15px 90px;
+  }  
+
+  .header-info,
   .header-logo{
-      width: 85%;
+    width: 85% ;
   }
 
 }
 
 @media screen and (max-width: 480px){
 
+  .nav-bar a,
+  .btn-menu{
+    padding: 15px 80px;
+  }  
+ 
+  .nav-bar li:nth-of-type(1){
+    margin-right: 0px;
+  }
+
   #branding{
     width: 100%;
   }
 
-  .header-info{
-    width: 90% ;
-  }
-
+  .header-info,
   .header-logo{
-    width: 90%;
+    width: 90% ;
   }
 
    .header-info h1{
@@ -816,14 +834,29 @@ body{
 
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 450px){
 
-  .header-info{
-    width: 100% ;
+  .nav-bar a,
+  .btn-menu{
+    padding: 15px 70px;
+  }  
+
+}
+
+@media screen and (max-width: 375px){
+
+  .nav-bar a,
+  .btn-menu{
+    padding: 15px 55px;
   }
 
+}
+
+@media screen and (max-width: 350px){
+
+  .header-info,
   .header-logo{
-    width: 100%;
+    width: 100% ;
   }
 
 }
