@@ -704,9 +704,6 @@ body{
     z-index: 9000;
     height: 70px;
     background-color: black;
-   -webkit-box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
-   -moz-box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
-    box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
   }
 
   .nav-main .logo a{
@@ -724,6 +721,10 @@ body{
 
   .about-content{
     width: 86%;
+  }
+
+  #branding{
+    padding-bottom: 80px;
   }
 
   .header-info h1{
@@ -798,11 +799,31 @@ body{
   }
 
   .header-info{
-      width: 95% ;
+    width: 90% ;
   }
 
   .header-logo{
-      width: 95%;
+    width: 90%;
+  }
+
+   .header-info h1{
+    font-size: 2.8em;
+  }
+
+  .header-info h2{
+    font-size: 1.2em;
+  }
+
+}
+
+@media screen and (max-width: 350px){
+
+  .header-info{
+    width: 100% ;
+  }
+
+  .header-logo{
+    width: 100%;
   }
 
 }
