@@ -386,7 +386,7 @@ body{
     100% { opacity:1; }
 }
 
-/* section intro */
+/* -- section intro -- */
 /* wrapper begins*/
 
 .title{
@@ -555,4 +555,10 @@ body{
   padding: 15px 0;
   font-size: 0.75em;
   font-family: 'Lato', sans-serif;
+}
+
+/* -- media queries begin --*/
+
+@media screen and (max-width: 1150px){
+
 }
