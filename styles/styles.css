@@ -185,6 +185,8 @@ body{
   color: white;
   font-family: 'Lato', sans-serif;
   position: relative;
+
+  background-color: blue;
 }
 
 .about-content h2{
@@ -298,7 +300,7 @@ body{
 }
 
 .header-info{
-  width: 50%;
+  width: 40%;
   margin: 0 auto;
   text-align: center;
   font-family: 'Lato', sans-serif;
@@ -325,7 +327,7 @@ body{
 }
 
 .header-logo{
-  width: 50%;
+  width: 40%;
   margin: 40px auto;
 }
 
@@ -558,10 +560,103 @@ body{
 
 /* -- media queries begin --*/
 
-@media screen and (max-width: 1150px){
+@media screen and (max-width: 1175px){
+
+  .wrapper{
+    width: 92%;
+    background-color: pink;
+  }
 
   .nav-main{
-    width: 90%;
+    width: 92%;
+    background-color: green;
+  }
+
+  .about-inner-wrapper{
+    width: 92%;
+    background-color: yellow;
+  }
+
+  #branding{
+    width: 92%;
+    background-color: blue;
+  }
+
+  .header-info{
+    width: 50% ;
+    background-color: yellow;
+  }
+
+  .header-logo{
+    width: 50%;
+    background-color: green;
   }
 
 }
+
+@media screen and (max-width: 1100px ){
+
+  .title-p p{
+    width: 55%;
+  }
+
+}
+
+@media screen and (max-width: 1020px){
+
+  .header-info{
+    width: 57% ;
+    background-color: yellow;
+  }
+
+  .header-logo{
+    width: 57%;
+    background-color: green;
+  }
+
+}
+
+@media screen and (max-width: 895px){
+
+  .header-info{
+    width: 63% ;
+  }
+
+  .header-logo{
+    width: 63%;
+  }
+
+  .title-p p{
+    width: 65%;
+  }
+
+ .wrapper{
+    width: 95%;
+    background-color: pink;
+  }
+
+  .nav-main{
+    width: 95%;
+    background-color: green;
+  }
+
+  .about-inner-wrapper{
+    width: 95%;
+    background-color: yellow;
+  }
+
+  #branding{
+    width: 95%;
+    background-color: blue;
+  }
+
+}
+
+@media screen and (max-width: 790px){
+
+ 
+
+
+}
+
+
