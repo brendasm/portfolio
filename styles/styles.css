@@ -390,10 +390,6 @@ body{
 /* -- section intro -- */
 /* wrapper begins*/
 
-#intro{
-  background-color: yellow;
-}
-
 .title{
   text-align: center;
   margin: 60px 0 40px;
@@ -422,7 +418,6 @@ body{
 
 .group{
   width: 16.666%;
-/*  background-color: blue;*/
 }
 
 .group h4{
@@ -573,7 +568,6 @@ body{
 
   .wrapper{
     width: 92%;
-/*    background-color: pink;*/
   }
 
   .nav-main{
@@ -645,26 +639,6 @@ body{
     width: 65%;
   }
 
- /*.wrapper{
-    width: 95%;
-    background-color: pink;
-  }
-
-  .nav-main{
-    width: 95%;
-    background-color: green;
-  }
-
-  .about-inner-wrapper{
-    width: 95%;
-    background-color: yellow;
-  }
-
-  #branding{
-    width: 95%;
-    background-color: blue;
-  }
-*/
   .project{
     width: 43%;
     margin-left: 3.5%;
@@ -705,19 +679,63 @@ body{
     width: 78%;
   }
 
-
-}
-
-@media screen and (max-width: 645px){
-
   .group{
     width: 50%;
   }
 
 
+}
+
+@media screen and (max-width: 645px){
+
+  .header-info h1{
+    font-size: 3em;
+  }
+
+  .header-info h2{
+    font-size: 1.4em;
+  }
+
+  .header-logo img{
+    width: 100px;
+  }
+
+  .title-p p{
+    width: 90%;
+  }
+
   .project{
-    width: 80%;
+    width: 90%;
     margin: 0 auto 35px;
+  }
+
+  .title{
+    font-size: 1.2em;
+  }
+
+  .title-p p{
+    font-size: 1.08em;
+  }
+
+  .icon img{
+    height: 45px;
+    width: 45px;
+  }
+
+  .footer p, .footer h4{
+    font-size: 1em;
+  }
+
+  .social-icons-footer a{
+    margin: 25px;
+  }
+
+  .nav-main{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 9000;
+    border-top: 1px black solid;
   }
 
 }
