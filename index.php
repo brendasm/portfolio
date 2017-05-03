@@ -39,9 +39,9 @@
 					<p>I love designing cohesive web and mobile interfaces that bring together simplicity, functionality and engaging user experiences. </p>
 				</div> <!-- end title p -->
 
-				<div class="process-icons">
+				<div class="process-wrapper">
 
-					<div>
+					<div class="group">
 						<figure class="icon">
 							<img src="images/icons/identify.svg" title="UX Process-Identify" alt="Identify Icon">
 						</figure>
@@ -49,7 +49,7 @@
 					</div>
 
 
-					<div>
+					<div class="group">
 						<figure class="icon">
 							<img src="images/icons/research.svg" title="UX Process-Research" alt="Research Icon"> 
 						</figure>
@@ -57,35 +57,35 @@
 					</div>
 
 
-					<div>
+					<div class="group">
 						<figure class="icon">
 							<img src="images/icons/design.svg" title="UX Process-Design" alt="Design Icon">
 						</figure>
 						<h4>Design</h4>
 					</div>	
 
-					<div>
+					<div class="group">
 						<figure class="icon">
 							<img src="images/icons/prototype.svg" title="UX Process-Prototype" alt="Prototype Icon">
 						</figure>
 						<h4>Prototype</h4>
 					</div>	
 
-					<div>
+					<div class="group">
 						<figure class="icon">
 							<img src="images/icons/testing.svg" title="UX Process-Testing" alt="User Testing Icon">
 						</figure>
 						<h4>User Testing</h4>
 					</div>
 
-					<div>
+					<div class="group">
 						<figure class="icon">
 							<img src="images/icons/iterate.svg" title="UX Process-Iterate" alt="Iterate Icon">
 						</figure>
 						<h4>Iterate In-Between</h4>
 					</div>	
 
-				</div> <!-- end my process icons -->
+				</div> <!-- end my process wrapper -->
 
 			</section> <!-- end section intro -->
 

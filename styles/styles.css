@@ -390,6 +390,10 @@ body{
 /* -- section intro -- */
 /* wrapper begins*/
 
+#intro{
+  background-color: yellow;
+}
+
 .title{
   text-align: center;
   margin: 60px 0 40px;
@@ -408,15 +412,20 @@ body{
   text-align: center;
 }
 
-.process-icons{
+.process-wrapper{
   display: -ms-flexbox;
   display: flex;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   margin: 70px 0;
 }
 
-.process-icons h4{
+.group{
+  width: 16.666%;
+/*  background-color: blue;*/
+}
+
+.group h4{
   margin-top: 20px;
   text-align: center;
   text-transform: uppercase;
@@ -564,7 +573,7 @@ body{
 
   .wrapper{
     width: 92%;
-    background-color: pink;
+/*    background-color: pink;*/
   }
 
   .nav-main{
@@ -614,6 +623,12 @@ body{
     background-color: green;
   }
 
+  .group{
+    width: 33.33%;
+    margin-bottom: 40px;
+  }
+
+
 }
 
 @media screen and (max-width: 895px){
@@ -630,7 +645,7 @@ body{
     width: 65%;
   }
 
- .wrapper{
+ /*.wrapper{
     width: 95%;
     background-color: pink;
   }
@@ -649,13 +664,61 @@ body{
     width: 95%;
     background-color: blue;
   }
+*/
+  .project{
+    width: 43%;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+  }
 
 }
 
-@media screen and (max-width: 790px){
+@media screen and (max-width: 800px){
 
- 
+  .header-info{
+    width: 70% ;
+  }
 
+  .header-logo{
+    width: 70%;
+  }
+
+  .title-p p{
+    width: 70%;
+  }
+
+}
+
+@media screen and (max-width: 730px){
+
+  .project{
+    width: 45%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+  }
+
+  .header-info{
+    width: 78% ;
+  }
+
+  .header-logo{
+    width: 78%;
+  }
+
+
+}
+
+@media screen and (max-width: 645px){
+
+  .group{
+    width: 50%;
+  }
+
+
+  .project{
+    width: 80%;
+    margin: 0 auto 35px;
+  }
 
 }
 
