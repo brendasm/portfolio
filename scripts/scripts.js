@@ -44,7 +44,7 @@ var $btnclose = $('.btn-close');
 $btnabout.click(function(){
 	$wrapper.toggleClass('show-menu');
 
-	if ($(window).width() < 450) {
+	if ($(window).width() < 645) {
 
 		if($.trim($btnabout.text()) == 'About'){
 			$btnabout.text('close');

@@ -159,7 +159,7 @@ body{
   position: fixed;
   width:  100vw;
   height:  100vh;
-  background-color: rgba(0,0,0,0.97);
+  background-color: rgba(0,0,0,0.94);
   overflow:  scroll;
   -ms-transform: translate( 100%, 0);
       transform: translate( 100%, 0);
@@ -185,8 +185,6 @@ body{
   color: white;
   font-family: 'Lato', sans-serif;
   position: relative;
-
-  background-color: blue;
 }
 
 .about-content h2{
@@ -328,13 +326,14 @@ body{
 
 .header-logo{
   width: 40%;
-  margin: 40px auto;
+  margin: 0 auto;
+  padding: 40px 0;
 }
 
 .header-logo img{
   margin: 0 auto;
   display: block;
-  width: 150px;
+  width: 165px;
 }
 
 .rotateshape{
@@ -572,17 +571,18 @@ body{
 
   .nav-main{
     width: 92%;
-    background-color: green;
   }
 
   .about-inner-wrapper{
     width: 92%;
-    background-color: yellow;
+  }
+
+  .about-content{
+    width: 72%;
   }
 
   #branding{
     width: 92%;
-    background-color: blue;
   }
 
   .header-info{
@@ -598,6 +598,10 @@ body{
 }
 
 @media screen and (max-width: 1100px ){
+
+  .about-content{
+    width: 80%;
+  }
 
   .title-p p{
     width: 55%;
@@ -649,6 +653,10 @@ body{
 
 @media screen and (max-width: 800px){
 
+  .about-content{
+    width: 87%;
+  }
+
   .header-info{
     width: 70% ;
   }
@@ -688,6 +696,39 @@ body{
 
 @media screen and (max-width: 645px){
 
+  .nav-main{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 9000;
+    height: 70px;
+    background-color: black;
+-webkit-box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
+box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
+  }
+
+  .nav-main .logo a{
+
+    line-height: 70px;
+
+  }
+
+  .nav-main a{
+    line-height: 70px;
+
+  }
+
+  .nav-main ul{
+
+    line-height: 70px;
+  }
+
+  .about-content{
+    width: 90%;
+  }
+
+
   .header-info h1{
     font-size: 3em;
   }
@@ -697,7 +738,7 @@ body{
   }
 
   .header-logo img{
-    width: 100px;
+    width: 120px;
   }
 
   .title-p p{
@@ -730,13 +771,16 @@ body{
     margin: 25px;
   }
 
-  .nav-main{
-    bottom: 0;
-    position: fixed;
-    width: 100%;
-    z-index: 9000;
-    border-top: 1px black solid;
+  footer{
+    padding-bottom: 70px;
   }
+
+  .signature{
+    background-color: #F1F1F1;
+  color: #323131;
+  }
+
+
 
 }
 
