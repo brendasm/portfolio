@@ -239,7 +239,6 @@ body{
   display: flex;
   -ms-flex-pack: justify;
       justify-content: space-between; 
-      background-color: green;
 }
 
 .nav-main .logo a{
@@ -560,5 +559,9 @@ body{
 /* -- media queries begin --*/
 
 @media screen and (max-width: 1150px){
+
+  .nav-main{
+    width: 90%;
+  }
 
 }
