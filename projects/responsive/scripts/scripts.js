@@ -1,0 +1,1 @@
+var $body=$('body');var $btnMobileMenu=$('.btn-mobile-menu');$btnMobileMenu.click(function(){$body.toggleClass('show')});var $ddHeadings=$('.dd-heading');$('.accordion-links > a').hide();$ddHeadings.click(function(){$(this).siblings('.accordion-links').children('a').toggle()})

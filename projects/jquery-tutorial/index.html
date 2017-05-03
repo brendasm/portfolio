@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>JavaScript | JQuery Tutorial | Brenda Lau</title>
+	<link rel="stylesheet" type="text/css" href="styles/styles.css"/>
+	<link rel="stylesheet" type="text/css" href="styles/fotorama.css">
+	<link rel="stylesheet" type="text/css" href="styles/prism.css"/>
+	<link href="https://fonts.googleapis.com/css?family=Oswald|Raleway" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+	<link rel="shortcut icon" href="favicon.ico"> 
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-87986053-1', 'auto');
+		ga('send', 'pageview');
+
+	</script>
+</head>
+
+<body id="home">
+	
+	<div class="wrapper">
+
+		<main>
+
+			<header>
+				<img src="images/pineapple.png" alt="pineapple cartoon">
+				<h1>JavaScript &amp; JQuery Tutorial</h1>
+
+				<div class="welcome">
+					<h3>Hello There!</h3> 
+					<p>This tutorial will showcase three step-by-step easy and effective jQuery effects to add to your webpage.</p>
+					<p>Excited to learn? Scroll down to get started!</p>
+				</div> <!-- end div welcome -->
+
+			</header>
+
+			<section id="front">
+
+				<div class="box">
+					<h3>What is JavaScript?</h3>
+					<p>JavaScript is the language for programming webpages. It is a powerful scripting language that allows us to make webpages more dynamic and interactive.</p>
+					<p>Javascript complements the strucutral layer of HTML and style pages of CSS.</p> 
+				</div> <!-- end box 1 -->
+
+				<div class="box">
+					<h3>What is JQuery?</h3>
+					<p>JQuery is a JavaScript library that is lightweight and has the model, "write less, do more".</p>
+					<p>In simplier terms, the purpose of jQuery is to make it easier to implement JavaScript in a webpage.</p>
+				</div> <!-- end box 2 -->
+
+				<div class="box">
+					<h3>What's next?</h3>
+					<p>Once you get the hang of JavaScript &amp; jQuery, you'll be able to add interactive and animated elements to a webpage!</p>
+					<p>For example, you can animate text, create a image slider or create a sticky navigaton bar that sits at the top of the browser window. It's all fun stuff!</p>
+				</div> <!-- end box 3 -->
+
+			</section> <!-- end section front -->
+
+			<nav class="nav-bar">
+				<ul>
+					<li><a href="#sec-01">Tutorial 1</a></li>
+					<li><a href="#sec-02">Tutorial 2</a></li>
+					<li><a href="#sec-03">Tutorial 3</a></li>	
+					<li><a href="resources.html">Additional Sources</a></li>	
+				</ul>
+			</nav>
+
+			<section id="sec-01">
+
+				<div class="tutorial-description">
+					<h1>Tutorial #1: Image Slider</h1>
+					<p>In this tutorial, we will use the Fotorama jQuery plugin to create a simple and stunning image slider for your webpage! Bonus: This plugin also works great with mobile devices too!
+					</p>
+				</div> <!-- end div class tutorial description -->
+
+				<div class="demo">
+					<h2>Demo</h2>
+					<div class="fotorama">
+						<img src="images/pineapple-01.jpg" 	alt="pineapple img">
+						<img src="images/pineapple-02.jpg"	alt="pineapple img">
+						<img src="images/pineapple-03.jpg"	alt="pineapple img">
+						<img src="images/pineapple-04.jpg"	alt="pineapple img">
+						<img src="images/pineapple-05.jpg"	alt="pineapple img">
+					</div> <!-- end div fotorama -->
+				</div> <!-- end div for demo -->
+
+				<div class="tutorial">
+					<h2>Download</h2>
+					<div class="open">
+						<p>Download the Fotorama.zip file and extract the following documents: fotorama.css, fotorama.js and fotorama.png. Place the documents in their corresponding folders for your webpage. The zip file can be downloaded <a href="http://fotorama.io/#27">HERE.</a></p>
+						<p>Note: Place fotorama.png in the same folder as fotorama.css. </p>
+					</div>
+				</div> <!-- end div tutorial --> 
+
+				<div class="tutorial">
+					<h2>JS</h2>
+					<div class="open">
+						<p>Place the following jQuery CDN below in your HTML document before the closing &lt;/body> tag. Without this CDN, jQuery will not work. </p>
+						<p>Next, link the script file fotorama.js after the jQuery CDN. </p>
+						<pre class="language-javascript">
+							<code class="language-javascript">
+								&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">&lt;/script>
+								&lt;script src="scripts/fotorama.js">&lt;/script>
+							</code>
+						</pre>
+					</div>
+				</div> <!-- end div tutorial -->
+
+				<div class="tutorial">
+					<h2>HTML</h2>
+					<div class="open">
+						<p>Create a div class called "fotorama" and place all images in the div to be showcased in the image slider. The HTML markup should look similar to the code below.</p>
+						<p>Note: The photos used in the demo have been resized with photoshop to 900px x 500px.</p>
+						<pre class="language-markup">
+							<code class="language-markup">
+								&lt;div class="fotorama">
+								&lt;img src="images/pineapple-01.jpg" 	alt="pineapple img">
+								&lt;img src="images/pineapple-02.jpg" 	alt="pineapple img">
+								&lt;img src="images/pineapple-03.jpg" 	alt="pineapple img">
+								&lt;img src="images/pineapple-04.jpg" 	alt="pineapple img">
+								&lt;img src="images/pineapple-05.jpg" 	alt="pineapple img">
+								&lt;/div> 
+							</code>
+						</pre> 
+					</div>
+				</div> <!-- end div tutorial -->
+
+				<div class="tutorial">
+					<h2>CSS</h2>
+					<div class="open">
+						<p>Link the stylesheet fotorama.css in the &lt;head> of the HTML doc.</p>
+						<pre class="language-markup">
+							<code class="language-markup">
+								&lt;link rel="stylesheet" type="text/css" href="styles/fotorama.css">
+							</code>
+						</pre>
+						<p>Style the div class fotorama to the size of your images.</p>
+						<pre class="language-css">
+							<code class="language-css">
+								.fotorama{
+								width:900px;
+								height:500px;
+							}
+						</code>
+					</pre>
+				</div>
+			</div> <!-- end div tutorial -->
+
+		</section> <!-- end section 1 tutorial fotorama -->
+
+		<section id="sec-02">
+
+			<div class="tutorial-description">	
+				<h1 >Tutorial #2: Image Zoom</h1>
+				<p>In the second tutorial, we will use the Elevate Zoom jQuery plugin to create a basic zoom effect when you mouseover an image. This tutorial is perfect to implement on your next webpage! Try it out below!</p>
+			</div> <!-- end div class tutorial description -->	
+
+			<div class="demo">
+				<h2>Demo</h2>
+				<img id="zoom_01" src="images/food-02.jpg" data-zoom-image="images/food-01.jpg" alt="food image"/>
+			</div> <!-- end div class demo -->
+
+			<div class="tutorial">
+				<h2>Download</h2>
+				<div class="open">
+					<p>Download the Elevatezoom-master.zip file and extract the document: jquery.elevateZoom-3.0.8.min.js (this is the most lightweight one available). Place the .js file in the corresponding folder for your webpage. The zip files can be downloaded <a href="http://www.elevateweb.co.uk/image-zoom/examples">HERE.</a></p>
+					<p>On the Elevate Zoom webpage, you can also view the other plugin examples within the same .js document. Other examples include: Tints, Gallery Lightbox, Lens Zoom etc.</p>
+				</div> 
+			</div> <!-- end div tutorial -->
+
+			<div class="tutorial">
+				<h2>JS</h2>
+				<div class="open">
+					<p>Link the script file jquery.elevateZoom-3.0.8.min.js after the jQuery CDN but before the closing &lt;/body> tag. Second, include the following script code directly after the Elevate Zoom script. This will initialize the plugin.</p>
+					<pre class="language-javascript">
+						<code class="language-javascript">
+							&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">&lt;/script>
+							&lt;script src="scripts/jquery.elevateZoom-3.0.8.min.js">&lt;/script>
+							&lt;script>
+							$('#zoom_01').elevateZoom();
+							&lt;/script>
+						</code>
+					</pre>
+				</div> 
+			</div> <!-- end div tutorial -->
+
+			<div class="tutorial">
+				<h2>HTML</h2>
+				<div class="open">
+					<p>Simply code an &lt;img> tag (or many) and include the id of "zoom_01". The HTML markup should look similar to the code below.</p>
+					<p>Note #1: The photos used in the demo have been resized with photoshop to 400px x 267px (small photo) and 1280px x 853px (large photo). You must have two photo sizes for the basic zoom function to work.</p>
+					<p>Note #2: There is a div class around the &lt;img> tag for styling purposes.</p>
+					<p>Note #3: Place the large image in "data-zoom-image" and the small image in "src". </p>
+					<pre class="language-markup">
+						<code class="language-markup">
+							&lt;div class="demo">
+							&lt;img id="zoom_01" src="images/food-02.jpg" data-zoom-image="images/food-01.jpg"/>
+							&lt;/div>
+						</code>
+					</pre> 
+				</div> <!-- end open -->
+			</div> <!-- end div tutorial -->
+
+			<div class="tutorial">
+				<h2>CSS</h2>
+				<div class="open">
+					<p>Style the id "zoom_01" to your preference.</p>
+					<pre class="language-css">
+						<code class="language-css">
+							#zoom_01{
+							margin: 0 auto 10px;
+							display:block;
+						}
+					</code>
+				</pre>
+			</div> 
+		</div> <!-- end div tutorial -->
+
+	</section> <!-- end section 2 tutorial image zoom -->
+
+	<section id="sec-03">
+		
+		<div class="tutorial-description">	
+			<h1>Tutorial #3: Image Slider Cross Fade</h1>
+			<p>In the last tutorial, we will learn how to write a script that creates an image slider with the cross fade effect. Check out the demo below and see how the images rotate!</p>
+		</div> <!-- end div class tutorial description -->	
+
+		<div class="demo">
+			<h2>Demo</h2>
+			<div class="slider-cross-fade">
+				<img src="images/flower-01.jpg" alt="flower img">
+				<img src="images/flower-02.jpg"	alt="flower img">
+				<img src="images/flower-03.jpg"	alt="flower img">
+				<img src="images/flower-04.jpg"	alt="flower img">
+				<img src="images/flower-05.jpg"	alt="flower img">
+				<img src="images/flower-06.jpg"	alt="flower img">
+			</div> <!-- end slider cross fade -->
+		</div> <!-- end div demo -->
+
+		<div class="tutorial">
+			<h2>HTML</h2>
+			<div class="open">
+				<p>Create a div class with your preferred naming convention then place images in the div for the slider. The HTML markup should look similar to the code below.</p>
+				<p>Note: All images in the demo are resized with photoshop to 900px x 500px.</p>
+				<pre class="language-markup">
+					<code class="language-markup">
+						&lt;div class="slider-cross-fade">
+						&lt;img src="images/flower-01.jpg" alt="flower img">
+						&lt;img src="images/flower-02.jpg" alt="flower img">
+						&lt;img src="images/flower-03.jpg" alt="flower img">
+						&lt;img src="images/flower-04.jpg" alt="flower img">
+						&lt;img src="images/flower-05.jpg" alt="flower img">
+						&lt;img src="images/flower-06.jpg" alt="flower img">
+						&lt;/div> 
+					</code>
+				</pre>
+			</div> 
+		</div> <!-- end div tutorial -->
+
+		<div class="tutorial">
+			<h2>CSS</h2>
+			<div class="open">
+				<p>Style the div class as per your preference. Make sure to set the div class to a position of "relative" and include the height and width of the images.</p>
+				<p>Next, style the div class images to position of "absolute" with top:0 and left:0. This should place your images on top of each other for the slider to work.</p>
+				<pre class="language-css">
+					<code class="language-css">
+						.slider-cross-fade{
+						margin-left: auto;
+						margin-right: auto;
+						margin-bottom: 20px;
+						position: relative;
+						width: 900px;
+						height: 500px;
+					}
+
+					.slider-cross-fade img{
+					position: absolute;
+					top: 0;
+					left: 0;
+				}
+			</code>
+		</pre>
+	</div>
+</div> <!-- end div tutorial -->
+
+<div class="tutorial">
+	<h2>JS</h2>
+	<div class="open">
+		<p>Create a script file for the jQuery you are about to write and link it to your html document. Place the script file anywhere below the jQuery CDN but before the closing &lt;/body> tag .</p>
+		<pre class="language-javascript">
+			<code class="language-javascript">
+				&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">&lt;/script>
+				&lt;script src="scripts/scripts.js">&lt;/script>
+			</code>
+		</pre>
+		<p>Here comes the fun part, now it's time to write the script for the image slider! Take a look at the script below for reference. Make sure to set a variable for your slider images and indicate the time for your images to rotate! You will need to write a function to rotate the images one by one.</p>
+		<pre class="language-javascript">
+			<code class="language-javascript">
+				var sliderImages = $('.slider-cross-fade img');
+				var numberOfImages = sliderImages.length;
+
+				sliderImages.hide();
+
+				rotatePics(1);
+
+				function rotatePics(currentPhoto){
+				
+				currentPhoto = currentPhoto % numberOfImages;
+				
+				sliderImages.eq(currentPhoto)
+				.fadeOut(function(){
+
+				sliderImages.each(function(i){
+				
+				$(this).css(
+				'z-index', ( ((numberOfImages - i ) + currentPhoto) % numberOfImages) );			
+			});
+			
+			$(this).siblings().show();
+
+			setTimeout(function(){
+			rotatePics(++currentPhoto);
+		}, 1000); // indicate the time for the images to rotate
+		
+	});// end fade out function	
+};
+</code>
+</pre>
+</div>
+</div> <!-- end div tutorial -->
+
+</section> <!-- end section 3 tutorial image slider cross fade -->
+
+<div class="thankyou">	
+	<h1>And Voila!</h1>
+	<p>You did it! Hope you enjoyed the three tutorials showcased here today!</p>
+</div> <!-- end div class thank you -->	
+
+</main> 
+
+<footer>
+	<p>&copy; 2016 Brenda Lau. For educational purposes only. Photo <a href="https://unsplash.com/">Credits</a></p>
+	<a href="#home">
+		<img src="images/top2.png" alt="arrow"></a>
+	</footer>
+
+</div> <!-- end wrapper -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="scripts/fotorama.js"></script>
+<script src="scripts/prism.js"></script>
+<script src="scripts/scripts.js"></script>
+<script src="scripts/jquery.elevateZoom-3.0.8.min.js"></script>
+<script>
+	$('#zoom_01').elevateZoom();
+</script>
+<script>
+	$('a[href^="#"]').click(function(event){
+		var target = $( $(this).attr('href') );
+
+		if(target.length) {
+			
+			if( $(this).parents('nav').hasClass('sticky') ){
+
+				event.preventDefault();
+				$('html, body').animate({scrollTop: target.offset().top - 100}, 1000);
+
+			}else {
+
+				event.preventDefault();
+				$('html, body').animate({scrollTop: target.offset().top - 200}, 1000);
+
+			}
+		}
+	}); // end smooth scroll
+</script>
+</body>
+</html>
