@@ -587,12 +587,10 @@ body{
 
   .header-info{
     width: 50% ;
-    background-color: yellow;
   }
 
   .header-logo{
     width: 50%;
-    background-color: green;
   }
 
 }
@@ -613,17 +611,20 @@ body{
 
   .header-info{
     width: 57% ;
-    background-color: yellow;
   }
 
   .header-logo{
     width: 57%;
-    background-color: green;
+
+  }
+
+  .process-wrapper{
+    margin-bottom: 0px;
   }
 
   .group{
     width: 33.33%;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
   }
 
 
@@ -703,31 +704,27 @@ body{
     z-index: 9000;
     height: 70px;
     background-color: black;
--webkit-box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
-box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
+   -webkit-box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
+   -moz-box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
   }
 
   .nav-main .logo a{
-
-    line-height: 70px;
-
+    display: none;
   }
 
   .nav-main a{
     line-height: 70px;
-
+    background-color: pink;
   }
 
   .nav-main ul{
-
     line-height: 70px;
   }
 
   .about-content{
-    width: 90%;
+    width: 86%;
   }
-
 
   .header-info h1{
     font-size: 3em;
@@ -777,10 +774,36 @@ box-shadow: -1.25px -2.5px 5px 0px rgba(0,0,0,0.75);
 
   .signature{
     background-color: #F1F1F1;
-  color: #323131;
+    color: #323131;
   }
 
+}
 
+@media screen and (max-width: 545px){
+
+  .header-info{
+      width: 85% ;
+  }
+
+  .header-logo{
+      width: 85%;
+  }
+
+}
+
+@media screen and (max-width: 480px){
+
+  #branding{
+    width: 100%;
+  }
+
+  .header-info{
+      width: 95% ;
+  }
+
+  .header-logo{
+      width: 95%;
+  }
 
 }
 
