@@ -147,16 +147,6 @@
 	<script src="scripts/jquery-2.2.4.min.js"></script>
 	<script src="scripts/scripts.js"></script>
 	<script src="scripts/typed.min.js"></script>
-	<script>
-				$('a[href^="#"]').click(function(event){
-			var target = $( $(this).attr('href') );
-
-			if(target.length) {
-		    	event.preventDefault();
-		   		$('html, body').animate({scrollTop: target.offset().top}, 800);
-		  	}
-		});
-	</script>
 
 </body>
 </html>
