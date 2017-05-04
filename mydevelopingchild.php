@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Brenda Lau | UX Designer | Web Developer</title>
+<title>Brenda Lau | My Developing Child Project </title>
 	<?php include 'include/header.php'; // includes all header content ?>
 </head>
 

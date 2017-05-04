@@ -577,6 +577,10 @@ body{
   background-image: url('../images/project/hero-image/banner-mdc.jpg');
 }
 
+.election{
+  background-image: url('../images/project/hero-image/banner-mdc.jpg');  
+}
+
 /* -- media queries begin --*/
 
 @media screen and (max-width: 1175px){
