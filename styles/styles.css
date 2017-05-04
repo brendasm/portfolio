@@ -574,7 +574,7 @@ body{
 }
 
 .hero-filter{
-  background-color: rgba(21, 44, 60, 0.36);
+  background-color: rgba(21, 44, 60, 0.6);
   height: 100%;
 }
 
@@ -583,7 +583,7 @@ body{
 }
 
 .election{
-  background-image: url('../images/project/hero-image/banner-mdc.jpg');  
+  background-image: url('../images/project/hero-image/banner-ux.jpg');  
 }
 
 .bonapp{
