@@ -16,7 +16,7 @@
 
 		<?php include 'include/nav.php'; // include nav ?>
 		
-		</div>
+		</div> <!-- end hero filter -->
 		
 	</section>
 

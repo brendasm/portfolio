@@ -590,6 +590,11 @@ body{
   background-image: url('../images/project/hero-image/banner-bonapp.jpg');  
 }
 
+.jquery{
+background-image: url('../images/project/hero-image/banner-jquery.jpg');  
+
+}
+
 /* -- media queries begin --*/
 
 @media screen and (max-width: 1175px){
