@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Brenda Lau | Jquery Project </title>
+<title>Brenda Lau | Jquery Project
+ </title>
 	<?php include 'include/header.php'; // includes all header content ?>
 </head>
 
@@ -10,7 +11,7 @@
 
 	<?php include 'include/about.php'; // include about me section ?>
 
-	<section id="hero-image" class="mdc">
+	<section id="hero-image" class="jquery">
 
 		<?php include 'include/nav.php'; // include nav ?>
 		

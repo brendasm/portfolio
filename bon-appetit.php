@@ -10,9 +10,13 @@
 
 	<?php include 'include/about.php'; // include about me section ?>
 
-	<section id="hero-image" class="mdc">
+	<section id="hero-image" class="bonapp">
+
+	<div class="hero-filter">
 
 		<?php include 'include/nav.php'; // include nav ?>
+		
+		</div>
 		
 	</section>
 

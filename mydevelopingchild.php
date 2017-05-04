@@ -12,7 +12,11 @@
 
 	<section id="hero-image" class="mdc">
 
+		<div class="hero-filter">
+
 		<?php include 'include/nav.php'; // include nav ?>
+
+		</div>
 		
 	</section>
 
