@@ -10,11 +10,11 @@
 
 	<?php include 'include/about.php'; // include about me section ?>
 
-	<div class="bg">
-	
-	<?php include 'include/nav.php'; // include nav ?>
+	<section id="hero-image" class="mdc">
 
-	</div>
+		<?php include 'include/nav.php'; // include nav ?>
+		
+	</section>
 
 
 	<?php include 'include/footer.php'; // include footer ?>

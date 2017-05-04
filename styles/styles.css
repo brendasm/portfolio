@@ -238,7 +238,8 @@ body{
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: justify;
-      justify-content: space-between; 
+      justify-content: space-between;
+
 }
 
 .nav-main .logo a{
@@ -561,6 +562,19 @@ body{
   padding: 15px 0;
   font-size: 0.75em;
   font-family: 'Lato', sans-serif;
+}
+
+/* -- general project pages -- */
+
+#hero-image{
+  width: 100%;
+  height: 440px;
+  background-size: cover;
+  background-position: center;
+}
+
+.mdc{
+  background-image: url('../images/project/hero-image/banner-mdc.jpg');
 }
 
 /* -- media queries begin --*/
