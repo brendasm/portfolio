@@ -51,13 +51,13 @@
 
 				<div class="photo-wrapper">
 					<div class="photo-reg">
-						<img src="images/project/ux-project-3.png" alt="Elections Canada Screenshot" title="Elections Canada Screenshot">
+						<img src="images/project/ux-project/ux-project-3.png" alt="Elections Canada Screenshot" title="Elections Canada Screenshot">
 					</div>			
 					<div class="photo">
-						<img src="images/project/ux-project-1.jpg" alt="Elections Canada Style Guide" title="Elections Canada Style Guide">
+						<img src="images/project/ux-project/ux-project-1.jpg" alt="Elections Canada Style Guide" title="Elections Canada Style Guide">
 					</div>
 					<div class="photo">
-						<img src="images/project/ux-project-2.jpg" alt="Elections Canada Style Tile" title="Elections Canada Style Tile">
+						<img src="images/project/ux-project/ux-project-2.jpg" alt="Elections Canada Style Tile" title="Elections Canada Style Tile">
 					</div>						
 				</div> <!-- end photo wrapper -->
 

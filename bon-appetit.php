@@ -56,13 +56,13 @@
 				<div class="photo-wrapper">
 
 					<div class="photo-reg">
-						<img src="images/project/responsive-1.png" alt="bonappetit ipad screenshot" title="bonappetit ipad screenshot">
+						<img src="images/project/responsive/responsive-1.png" alt="bonappetit ipad screenshot" title="bonappetit ipad screenshot">
 					</div>
 					<div class="photo-reg">
-						<img src="images/project/responsive-4.png" alt="bonappetit ipad screenshot" title="bonappetit ipad screenshot">
+						<img src="images/project/responsive/responsive-2.png" alt="bonappetit ipad screenshot" title="bonappetit ipad screenshot">
 					</div>				
 					<div class="photo-reg">
-						<img src="images/project/responsive-3.jpg" alt="bonappetit iphone screenshot" title="bonappetit iphone screenshot">
+						<img src="images/project/responsive/responsive-3.jpg" alt="bonappetit iphone screenshot" title="bonappetit iphone screenshot">
 					</div>					
 
 				</div> <!-- end photo wrapper -->

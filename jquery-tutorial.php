@@ -61,10 +61,10 @@
 
 				<div class="photo-wrapper">
 					<div class="photo">
-						<img src="images/project/tutorial-1.png" alt="jquery tutorial screenshot" title="jquery tutorial screenshot">
+						<img src="images/project/tutorial/tutorial-1.png" alt="jquery tutorial screenshot" title="jquery tutorial screenshot">
 					</div>
 					<div class="photo">
-						<img src="images/project/tutorial-2.png" alt="jquery tutorial screenshot" title="jquery tutorial screenshot">				
+						<img src="images/project/tutorial/tutorial-2.png" alt="jquery tutorial screenshot" title="jquery tutorial screenshot">				
 					</div>
 				</div> <!-- end photo wrapper -->
 
