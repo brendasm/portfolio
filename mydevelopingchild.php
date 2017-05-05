@@ -37,26 +37,23 @@
 			<li>Git</li>
 			<li>User Testing</li>
 		</ul>
-		</div>	
+		</div> <!-- end skills	 -->
 
 
 
-									<p>My Developing Child is an educational website for a non-profit organization that focuses on bringing awareness to autism. The main requirements for the design and development of this project was to create a clean and easy to navigate site. With a user centered approach, we incorporated various dynamic elements to enhance the overall usability of the site with specific functions enabled/disabled at various screen sizes. </p>
-
-								<p>The project was a collaborative effort with two other team members. </p>
 
 
 
 			
-		</section> <!-- end showcase -->
+		</section> <!-- end section showcase-->
 
-		</div> <!-- end wrapper -->
+		</div> <!-- end showcase wrapper -->
 	</main>	
 
 
 	<?php include 'include/footer.php'; // include footer ?>
 
-	<script src="scripts/jquery-2.2.4.min.js"></script>
+	<script src="scripts/jquery-3.2.1.min.js"></script>
 	<script src="scripts/scripts.js"></script>
 
 </body>

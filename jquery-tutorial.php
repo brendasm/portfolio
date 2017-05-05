@@ -76,7 +76,7 @@
 
 	<?php include 'include/footer.php'; // include footer ?>
 
-	<script src="scripts/jquery-2.2.4.min.js"></script>
+	<script src="scripts/jquery-3.2.1.min.js"></script>
 	<script src="scripts/scripts.js"></script>
 
 </body>
