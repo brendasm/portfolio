@@ -645,6 +645,18 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
   padding-bottom: 18px;
 }
 
+span.bold{
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 0.9em;
+  text-transform: uppercase;
+
+}
+
+span.bold:after{
+  content: " // ";
+}
+
 .btn-project-pg{
   text-transform: uppercase;
   text-decoration: none;

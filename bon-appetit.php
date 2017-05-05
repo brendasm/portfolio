@@ -35,6 +35,7 @@
 				</div> <!-- skills wrapper -->
 
 				<div class="description">
+				<p>The objective of this project was to create a one-page responsive site that is compatible across all devices – desktop, tablet and mobile. This project ties together two things I am passionate about: good food &amp responsive design. I designed this project with flexbox to create a masonry grid layout (inspired by pinterest) which is based on columns that don’t have fixed height rows. I used a lightbox to showcase the images. With a responsive design approach, I disabled the lightbox on specific screen sizes and switched in a responsive navigation bar to bring together a functional user experience.</p>
 				</div> <!-- end description -->
 
 				<a href="/projects/responsive/" class="btn-project-pg" title="View Project" target="_blank">View Live</a>
