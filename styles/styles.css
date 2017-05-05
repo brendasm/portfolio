@@ -645,6 +645,11 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
   padding-bottom: 18px;
 }
 
+.description{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 span.bold{
   font-family: 'Lato', sans-serif;
   font-weight: 900;
@@ -701,6 +706,7 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 .swatch{
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   margin: 45px 0;
 }
 
@@ -746,6 +752,31 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 
 .responsive3{
   background-color: #2E2D2D;
+}
+
+.mdc1{
+  background-color: #01667D;
+}
+
+.mdc2{
+  background-color: #0099B5;
+}
+
+.mdc3{
+  background-color: #0CA2C7;
+}
+
+.mdc4{
+  background-color: #7A93A0;
+}
+
+.mdc5{
+  background-color: #4C4C4C;
+}
+
+.mdc1 p, .mdc2 p, .mdc3 p, .mdc4 p, .mdc5 p{
+  color: white;
+  font-weight: 400;
 }
 
 
