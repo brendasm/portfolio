@@ -22,11 +22,51 @@
 
 		<section id="showcase">
 
-			<h2 class="title">My Developing Child</h2>
+			<h2 class="title">Jquery Tutorial</h2>
+
+			<div class="skills-wrapper">
+			<ul class="skills">
+				<li>Visual Design</li>
+				<li>HTML</li>
+				<li>CSS</li>
+				<li>jQuery</li>
+			</ul>
+			</div>
+
+			<div class="description">
+			<p>The goal of this project was to create a site to showcase the use of javascript / jQuery in three tutorials. The tutorials are focused on an imagery theme with step-by-step instructions to incorporate jQuery image effects on any site. The project is designed to be clean, concise and easy for users to follow through each tutorial.</p>
+
+			<p>Since this is an earlier project, responsive design is not implemented. Project is best viewed on browsers with screen sizes 1100px and up.</p>
+			</div> <!-- end description -->
+
+			<a href="/projects/jquery-tutorial/" class="btn-project-pg" title="View Project" target="_blank">View Live</a>
+
+			<div class="border"></div>
+
+			<div class="description">
+			<p>The first tutorial showcases an image slider, the second one an image zoom effect. Both tutorials are to be used in conjunction with embedded code snippets and a plugin. Documentation is provided for the plugins to allow for easy implementation. Finally, the last tutorial is also an image slider which shows line by line the written script required to function. 
+			</p>
+			<p>Since the step-by-step documentation is text heavy, I used accordion tabs to hide/show information as required. </p>
+			</div> <!-- end description -->
+
+			<div class="swatch">
+			<div class="swatch-single jquery1"><p>#FFEFD5</p></div>
+			<div class="swatch-single jquery2"><p>#ADD8E6</p></div>
+			<div class="swatch-single jquery3"><p>#A9A9A9</p></div>
+			</div>
+
+			<div class="description">
+			<p>I incorporated three light and warm colors to bring out a tropical theme for the site. </p>
+			</div>
+
+			<div class="photo-wrapper">
+			</div>
+
+
 
 		</section> <!-- end section showcase -->
 
-		
+
 
 		</div> <!-- end showcase wrapper -->
 	</main>

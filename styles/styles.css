@@ -396,7 +396,7 @@ body{
   text-align: center;
   margin: 60px 0 40px;
   text-transform: uppercase;
-  font-size: 1.3em;
+  font-size: 1.35em;
   font-family: 'Lato', sans-serif;
   font-weight: 900;
   letter-spacing: 2.2px;
@@ -601,10 +601,9 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
 }
 
 .showcase-wrapper{
-
   max-width: 1000px;
   margin: 0 auto;
-  background-color: pink;
+/*  background-color: pink;*/
 }
 
 #showcase{
@@ -623,7 +622,6 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
   justify-content: center;
 }
 
-
 .skills li{
   padding-right: 6px;
   font-family: 'Lato', sans-serif;
@@ -639,16 +637,69 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
   content:  "";
 }
 
-#showcase p{
-/*  text-align: center;*/
-  width: 50%;
+.description p{
+  width: 60%;
   margin: 0 auto;
-  line-height: 1.2em;
+  line-height: 1.4em;
   font-size: 1.1em;
   padding-bottom: 10px;
-/*    font-family: 'Lato', sans-serif;*/
+}
 
+.btn-project-pg{
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 0.7em;
+  letter-spacing: 3px;
+  color: white;
+  background-color: black;
+  padding: 10px 0;
+  margin: 25px auto;
+  display: block;
+  width: 155px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
 
+.btn-project-pg:hover,
+.btn-project-pg:active,
+.btn-project-pg:focus{
+  color: #DAA520;
+  background-color: white;
+  outline: #DAA520 solid thin;
+}
+
+.swatch{
+  display: flex;
+  justify-content: center;
+  margin: 45px 0;
+}
+
+.swatch-single{
+  width: 135px;
+  height: 135px;
+/*  margin-right: 20px;*/
+}
+
+.swatch-single p{
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  font-weight: 900;
+  letter-spacing: 1.5px;
+}
+
+.jquery1{
+  background-color: #FFEFD5;
+}
+
+.jquery2{
+  background-color: #ADD8E6;
+}
+
+.jquery3{
+  background-color: #A9A9A9;
 }
 
 /* -- media queries begin --*/
