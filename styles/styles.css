@@ -693,6 +693,11 @@ span.bold:after{
 box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 }
 
+.photo-reg{
+    width: 85%;
+  margin: 30px auto;
+}
+
 .swatch{
   display: flex;
   justify-content: center;
