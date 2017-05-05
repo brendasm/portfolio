@@ -78,15 +78,26 @@
 
 		<div class="description">
 		<p><span class="bold">Development</span> &nbsp; The site was built on a custom WordPress theme. Each page was coded separately since the structural content of each page was different.  With a user centered approach, we incorporated various dynamic elements to enhance the overall usability of the site with specific functions enabled/disabled across various devices. </p>
-		</div>	
+		<p>We also implemented a progress bar at the bottom of each page so that users can navigate through the informational ‘steps’ of autism from screening to support. </p>
+		</div>
+
+		<div class="description">
+		<p><span class="bold">User Testing</span> &nbsp; For the final portion of the project, we conducted a site testing to determine the usability and efficiency of the site. The site testing allowed us to observe a user’s interaction with the interface, layout and content and to validate specific features that were incorporated into the site. For more detailed information, please view the pdf site testing report below. </p>	
+		</div>
+
+		<a href="/projects/mdc-site-testing-report.pdf" class="btn-project-pg" title="View Report" target="_blank">Site Testing Report</a>
+
+
+		<div class="border"></div>
+
 
 		<div class="photo-wrapper">
 
 			<div class="photo-reg">
-				<img src="images/project/mdc/mdc-3b.png" alt="" title="">
+				<img src="images/project/mdc/mdc-3.jpg">
 			</div>
-			<div class="photo-reg">
-				<img src="images/project/mdc/mdc-3a.png">
+			<div class="photo">
+				<img src="images/project/mdc/mdc-4.png">
 			</div>
 
 		</div> <!-- photo wrapper	 -->
