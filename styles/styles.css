@@ -677,7 +677,6 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
 .swatch-single{
   width: 135px;
   height: 135px;
-/*  margin-right: 20px;*/
 }
 
 .swatch-single p{
@@ -701,6 +700,20 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
 .jquery3{
   background-color: #A9A9A9;
 }
+
+.photo-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+
+.photo{
+  width: 85%;
+  margin: 30px auto;
+-webkit-box-shadow: 1px 4px 25px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 4px 25px -1px rgba(0,0,0,0.75);
+box-shadow: 1px 4px 25px -1px rgba(0,0,0,0.75);
+}
+
 
 /* -- media queries begin --*/
 

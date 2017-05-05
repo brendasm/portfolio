@@ -53,14 +53,20 @@
 			<div class="swatch-single jquery1"><p>#FFEFD5</p></div>
 			<div class="swatch-single jquery2"><p>#ADD8E6</p></div>
 			<div class="swatch-single jquery3"><p>#A9A9A9</p></div>
-			</div>
+			</div> <!-- end swatch -->
 
 			<div class="description">
 			<p>I incorporated three light and warm colors to bring out a tropical theme for the site. </p>
 			</div>
 
 			<div class="photo-wrapper">
+			<div class="photo">
+				<img src="images/project/tutorial.png" alt="" title="">
 			</div>
+			<div class="photo">
+				<img src="images/project/jquery-tutorial-1.png" alt="" title="">				
+			</div>
+			</div> <!-- end photo wrapper -->
 
 
 
