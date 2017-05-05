@@ -17,11 +17,8 @@
 		</section> <!-- end hero image -->
 
 
-
-
-
 	<main id="content">
-<!-- 		<div class="wrapper">	 -->
+		<div class="showcase-wrapper">	
 
 		<section id="showcase">
 
@@ -48,12 +45,12 @@
 
 								<p>The project was a collaborative effort with two other team members. </p>
 
-<div class="divider div-transparent div-arrow-down"></div>
+
 
 			
 		</section> <!-- end showcase -->
 
-<!-- 		</div> --> <!-- end wrapper -->
+		</div> <!-- end wrapper -->
 	</main>	
 
 

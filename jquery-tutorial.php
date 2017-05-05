@@ -11,15 +11,27 @@
 
 	<?php include 'include/about.php'; // include about me section ?>
 
-	<section id="hero-image" class="jquery">
+		<section id="hero-image" class="jquery">
+			<div class="hero-filter">
+			<?php include 'include/nav.php'; // include nav ?>
+			</div> <!-- end hero filter	 -->		
+		</section> <!-- end hero image -->
 
-	<div class="hero-filter">
+	<main id="content">
+		<div class="showcase-wrapper">
 
-		<?php include 'include/nav.php'; // include nav ?>
+		<section id="showcase">
 
-	</div> <!-- end hero filter	 -->
+			<h2 class="title">My Developing Child</h2>
+
+		</section> <!-- end section showcase -->
+
 		
-	</section>
+
+		</div> <!-- end showcase wrapper -->
+	</main>
+
+
 
 
 	<?php include 'include/footer.php'; // include footer ?>

@@ -92,7 +92,7 @@
 
 			<section id="portfolio">
 
-				<div class="divider div-transparent div-arrow-down"></div> 
+				<div class="border"></div> 
 
 				<h2 class="title">Current Projects</h2>
 
