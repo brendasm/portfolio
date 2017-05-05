@@ -67,8 +67,6 @@
 
 				</div> <!-- end photo wrapper -->
 
-
-
 			</section> <!-- end section showcase -->
 
 		</div> <!-- end showcase wrapper -->
