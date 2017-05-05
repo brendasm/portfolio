@@ -11,14 +11,10 @@
 	<?php include 'include/about.php'; // include about me section ?>
 
 	<section id="hero-image" class="election">
-
-	<div class="hero-filter">
-
+		<div class="hero-filter">
 		<?php include 'include/nav.php'; // include nav ?>
-
-	</div> <!-- end hero filter	 -->
-		
-	</section>
+		</div> <!-- end hero filter	 -->	
+	</section> <!-- end hero image -->
 
 
 	<?php include 'include/footer.php'; // include footer ?>
