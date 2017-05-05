@@ -642,7 +642,7 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
   margin: 0 auto;
   line-height: 1.4em;
   font-size: 1.1em;
-  padding-bottom: 10px;
+  padding-bottom: 18px;
 }
 
 .btn-project-pg{
@@ -709,9 +709,9 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
 .photo{
   width: 85%;
   margin: 30px auto;
--webkit-box-shadow: 1px 4px 25px -1px rgba(0,0,0,0.75);
--moz-box-shadow: 1px 4px 25px -1px rgba(0,0,0,0.75);
-box-shadow: 1px 4px 25px -1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
+box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 }
 
 

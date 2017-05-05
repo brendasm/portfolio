@@ -44,7 +44,7 @@
 			<div class="border"></div>
 
 			<div class="description">
-			<p>The first tutorial showcases an image slider, the second one an image zoom effect. Both tutorials are to be used in conjunction with embedded code snippets and a plugin. Documentation is provided for the plugins to allow for easy implementation. Finally, the last tutorial is also an image slider which shows line by line the written script required to function. 
+			<p>The first tutorial showcases an image slider, the second one an image zoom effect. Both tutorials are to be used in conjunction with embedded code snippets and a plugin. Documentation is provided for the plugins to allow for easy implementation. Finally, the last tutorial is also an image slider which shows line by line the written script required to function. The site also includes a sticky navbar to allow easy navigation between tutorials. 
 			</p>
 			<p>Since the step-by-step documentation is text heavy, I used accordion tabs to hide/show information as required. </p>
 			</div> <!-- end description -->
@@ -61,10 +61,10 @@
 
 			<div class="photo-wrapper">
 			<div class="photo">
-				<img src="images/project/tutorial.png" alt="" title="">
+				<img src="images/project/tutorial-1.png" alt="jquery tutorial screenshot" title="jquery tutorial screenshot">
 			</div>
 			<div class="photo">
-				<img src="images/project/jquery-tutorial-1.png" alt="" title="">				
+				<img src="images/project/tutorial-2.png" alt="jquery tutorial screenshot" title="jquery tutorial screenshot">				
 			</div>
 			</div> <!-- end photo wrapper -->
 
