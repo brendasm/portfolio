@@ -82,7 +82,7 @@
 
 		<div class="photo-wrapper">
 
-			<div class="photo">
+			<div class="photo-reg">
 				<img src="images/project/mdc/mdc-3b.png" alt="" title="">
 			</div>
 			<div class="photo-reg">
