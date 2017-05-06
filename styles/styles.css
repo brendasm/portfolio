@@ -617,9 +617,14 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
 }
 
 .skills{
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+          justify-content: center;
 }
 
 .skills li{
@@ -688,8 +693,13 @@ span.bold:after{
 }
 
 .photo-wrapper{
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .photo{
@@ -706,9 +716,14 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 }
 
 .swatch{
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   margin: 45px 0;
 }
 
@@ -1084,6 +1099,10 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
   .swatch-single{
     width: 105px;
     height: 105px;
+  }
+
+  .header-logo{
+    padding: 25px 0 40px;
   }
 
 }
