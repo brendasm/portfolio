@@ -1,29 +1,5 @@
 // Script
 
-// For Accordion Tabs
-
-// $('#portfolio > article > div').hide();
-
-// var $accordionTabs = $('#portfolio > article > h2'); 
-
-// $accordionTabs.click(function(){
-
-// var $button = $(this).children('button');
-// var $thisPane = $(this).next();
-
-// $accordionTabs.children('button').removeClass('minus');
-
-// if($thisPane.is(':visible')){
-// 	$button.removeClass('minus');
-// 	$thisPane.slideUp();		
-// }else{
-// 	$('#portfolio > article > div:visible').slideUp();	
-// 	$button.addClass('minus');
-// 	$thisPane.slideDown();
-// }
-// });
-
-
 // typewrite for branding section
 
 $(function(){
@@ -35,7 +11,7 @@ $(function(){
 });
 
 
-// open my story tab
+// open about me tab
 
 var $btnabout = $('.btn-menu');
 var $wrapper = $('.about-wrapper');

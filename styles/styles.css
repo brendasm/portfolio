@@ -266,7 +266,8 @@ body{
   line-height: 100px;
 }
 
-.nav-bar li:nth-of-type(1){
+.nav-bar li:nth-of-type(1),
+.nav-bar li:nth-of-type(2){
   margin-right: 25px;
 }
 
@@ -923,11 +924,11 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 
   .nav-bar a{
     line-height: 65px;
-    padding: 15px 115px;
+    padding: 15px 70px;
   }
 
   .btn-menu{
-    padding: 15px 115px;
+    padding: 15px 70px;
   }
 
   .btn-menu:focus,
@@ -1019,7 +1020,7 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 
   .nav-bar a,
   .btn-menu{
-    padding: 15px 105px;
+    padding: 15px 57px;
   }
 
 }
@@ -1028,7 +1029,7 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 
   .nav-bar a,
   .btn-menu{
-    padding: 15px 90px;
+    padding: 15px 52px;
   }  
 
   .header-info,
@@ -1046,10 +1047,11 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 
   .nav-bar a,
   .btn-menu{
-    padding: 15px 80px;
+    padding: 15px 48px;
   }  
  
-  .nav-bar li:nth-of-type(1){
+  .nav-bar li:nth-of-type(1),
+  .nav-bar li:nth-of-type(2){
     margin-right: 0px;
   }
 
@@ -1076,7 +1078,7 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 
   .nav-bar a,
   .btn-menu{
-    padding: 15px 70px;
+    padding: 15px 45px;
   }  
 
   .swatch-single{
@@ -1090,12 +1092,17 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 
   .nav-bar a,
   .btn-menu{
-    padding: 15px 55px;
+    padding: 15px 40px;
   }
 
 }
 
 @media screen and (max-width: 350px){
+
+  .nav-bar a,
+  .btn-menu{
+    padding: 15px 36px;
+  }
 
   .header-info,
   .header-logo{

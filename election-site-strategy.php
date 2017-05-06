@@ -40,7 +40,7 @@
 					<p>The project was separated in two parts – Content Strategy and Prototype.  The content strategy was developed in a collaborative effort of five team members. The individual component consisted of creating a functioning prototype, style guide and style tile. View the below pdf strategy for more details.</p>	
 				</div> <!-- end description -->
 
-				<a href="/projects/elections-canada-ux-project.pdf" class="btn-project-pg" title="View Project" target="_blank">View Strategy</a>
+				<a href="/projects/elections-canada-ux-project.pdf" class="btn-project-pg" title="View Strategy" target="_blank">View Strategy</a>
 
 				<div class="border"></div>
 
