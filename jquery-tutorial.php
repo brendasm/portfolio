@@ -39,7 +39,7 @@
 					<p>Since this is an earlier project, responsive design is not implemented. Project is best viewed on browsers with screen sizes 1100px and up.</p>
 				</div> <!-- end description -->
 
-				<a href="/projects/jquery-tutorial/" class="btn-project-pg" title="View Project" target="_blank">View Live</a>
+				<a href="/projects/jquery-tutorial/index.html" class="btn-project-pg" title="View Project" target="_blank">View Live</a>
 
 				<div class="border"></div>
 
