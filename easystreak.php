@@ -42,7 +42,7 @@
 		<div class="description">
 			<p><span class="bold">Research</span>&nbsp;In order to tackle this project, I had to first research and figure out the answers to the following questions: </p>
 
-			<ul class="bullet">
+			<ul class="list">
 				<li>Who are the users and what are their priorities when using this product?</li>
 				<li>What are the use cases of this product?</li>
 				<li>What are the opportunities for design enhancements related to product desirability (utility, usability, and delight)?</li>
@@ -68,12 +68,35 @@
 		</div> <!-- end description -->
 
 		<div class="description">
-			<p><span class="bold">UX Strategy</span></p>
+			<p><span class="bold">UX Strategy</span>Based on research findings and from user interviews, the UI redesign includes the following elements:</p>
+			<ul class="bullet-list">
+				<li>Simplifying the interface and improve navigation</li>
+				<li>Streamlining the process to enter a contest</li>
+				<li>Make call to actions (CTAs) more prominent</li>
+				<li>Incorporate consistent and easy to understand logos</li>
+				<li>Consistent visual design throughout the app</li>
+			</ul>
 		</div> <!-- end description -->
 
 		<div class="photo-wrapper">
 			<div class="photo-reg">
-				<img src="images/project/easystreak/es-sitemap.png" alt="Elections Canada Screenshot" title="Elections Canada Screenshot">
+				<a href="/projects/es-sitemap.pdf" title="View Sitemap" target="_blank"><img src="images/project/easystreak/es-sitemap.png" alt="Easy Streak Sitemap" title="Easy Streak Sitemap"></a>
+			</div>		
+		</div> <!-- end photo wrapper -->
+
+		<div class="description">
+			<p>User Flow Task: Join a free contest and select teams</p>
+		</div>
+
+		<div class="photo-wrapper">
+			<div class="photo-reg">
+				<img src="images/project/easystreak/es-userflow.png" alt="Easy Streak User flow" title="Easy Streak User flow">
+			</div>
+			<div class="photo">
+				<img src="images/project/easystreak/es-wireframe-1.JPG" alt="Easy Streak Wireframe" title="Easy Streak Wireframe">
+			</div>
+			<div class="photo">
+				<img src="images/project/easystreak/es-wireframe-2.JPG" alt="Easy Streak Wireframe" title="Easy Streak Wireframe">
 			</div>		
 		</div> <!-- end photo wrapper -->
 
