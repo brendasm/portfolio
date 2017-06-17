@@ -67,6 +67,18 @@
 			<p>Note: Selected participants are a mix of try-outs (free), semi-pro and premium subscribers. </p>
 		</div> <!-- end description -->
 
+		<div class="photo-wrapper">
+			<div class="photo-reg">
+				<img src="images/project/easystreak/es-persona-1.png" alt="Easy Streak Persona" title="Easy Streak Persona">
+			</div>
+			<div class="photo-reg">
+				<img src="images/project/easystreak/es-persona-2.png" alt="Easy Streak Persona" title="Easy Streak Persona">
+			</div>
+
+		</div>
+
+
+
 		<div class="description">
 			<p><span class="bold">UX Strategy</span>Based on research findings and from user interviews, I then created a sitemap to show the relationship between features and the touch points for the users. </p>
 

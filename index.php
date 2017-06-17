@@ -100,12 +100,21 @@
 
 					<article class="project">
 						<div class="project-info">
+							<a href="easystreak.php">
+								<img src="images/project/easystreak-0.jpg" alt="Easy Streak Redesign" title="Easy Streak Redesign" />
+							</a>
+						</div> <!-- end project info -->
+						<a class="btn-project" href="easystreak.php"><span class="screen-reader-text">View Project</span><h3>Easy Streak</h3></a> 
+					</article> <!-- end project -->				
+
+					<article class="project">
+						<div class="project-info">
 							<a href="mydevelopingchild.php">
 								<img src="images/project/mydevelopingchild-0.jpg" alt="My Developing Child Project" title="My Developing Child Site Project" />
 							</a>
 						</div> <!-- end project info -->
 						<a class="btn-project" href="mydevelopingchild.php"><span class="screen-reader-text">View Project</span><h3>My Developing Child</h3></a> 
-					</article> <!-- end project 1 -->
+					</article> <!-- end project -->
 
 					<article class="project">
 						<div class="project-info">
@@ -114,7 +123,7 @@
 							</a>
 						</div> <!-- end project info -->
 						<a class="btn-project" href="election-site-strategy.php"><span class="screen-reader-text">View Project</span><h3>Election Website</h3></a>
-					</article> <!-- end project 2 -->
+					</article> <!-- end project -->
 
 					<article class="project">
 						<div class="project-info">
@@ -123,7 +132,7 @@
 							</a>
 						</div> <!-- end project info -->
 						<a class="btn-project" href="bon-appetit.php"><span class="screen-reader-text">View Project</span><h3>Bon App&eacute;tit</h3></a>
-					</article> <!-- end project 3 -->
+					</article> <!-- end project -->
 
 					<article class="project">
 						<div class="project-info">
@@ -132,7 +141,7 @@
 							</a>
 						</div> <!-- end project info -->
 						<a class="btn-project" href="jquery-tutorial.php"><span class="screen-reader-text">View Project</span><h3>Jquery Tutorial</h3></a>
-					</article> <!-- end project 4 -->
+					</article> <!-- end project -->
 
 				</div> <!-- end project wrapper -->
 
