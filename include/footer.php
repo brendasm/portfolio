@@ -17,7 +17,8 @@
 	</div> <!-- end class footer --> 
 
 	<div class="signature">
-		<p>&copy; 2017 Brenda Lau &nbsp; &nbsp; &#10084; &nbsp; Powered by Passion &amp; Jasmine Green Tea</p>
+		<p>&copy; 2017 Design &amp; Code by Brenda Lau</p>
+		<p>&#10084; &nbsp; Powered by Passion &amp; Jasmine Green Tea</p>
 	</div>
 
 </footer>

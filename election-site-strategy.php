@@ -37,7 +37,7 @@
 
 				<div class="description">
 					<p>The scope of this UX project was to create a content strategy proposal to redesign the ‘Elections Canada’ website. The redesign aims to deliver an organized site architecture that simplifies the process of voting and improves the current user experience from beginning to end. The design incorporates a clean and effective layout that is easy for all types of users to navigate for information. </p>
-					<p>The project was separated in two parts – Content Strategy and Prototype.  The content strategy was developed in a collaborative effort of five team members. The individual component consisted of creating a functioning prototype, style guide and style tile. View the below pdf strategy for more details.</p>	
+					<p>The project was separated in two parts – Content Strategy and Prototype.  The content strategy was developed in a collaborative effort of five team members. The individual component consisted of creating a functioning coded prototype, style guide and style tile. View the below pdf strategy for more details.</p>	
 				</div> <!-- end description -->
 
 				<a href="/projects/elections-canada-ux-project.pdf" class="btn-project-pg" title="View Strategy" target="_blank">View Strategy</a>
