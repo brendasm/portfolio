@@ -39,6 +39,12 @@
 
 		<div class="border"></div>
 
+		<div class="photo-wrapper">
+			<div class="photo-reg">
+				<img src="images/project/easystreak/es-1.png" alt="My Developing Child iphone" title="My Developing Child iphone">
+			</div>
+		</div>
+
 		<div class="description">
 			<p><span class="bold">Research</span>&nbsp;In order to tackle this project, I had to first research and figure out the answers to the following questions: </p>
 
@@ -74,8 +80,7 @@
 			<div class="photo-reg">
 				<img src="images/project/easystreak/es-persona-2.png" alt="Easy Streak Persona" title="Easy Streak Persona">
 			</div>
-
-		</div>
+		</div> <!-- end photo wrapper -->
 
 
 
