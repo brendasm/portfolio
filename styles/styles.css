@@ -605,6 +605,11 @@ body{
 background-image: url('../images/project/hero-image/banner-jquery.jpg');  
 }
 
+.easystreak{
+ background-image: url('../images/project/hero-image/banner-es.jpg');   
+}
+
+
 .showcase-wrapper{
   max-width: 1000px;
   margin: 0 auto;
