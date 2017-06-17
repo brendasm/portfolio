@@ -113,7 +113,7 @@
 		<div class="description">
 			<p>I also conducted usability testing on the design prototype from sketch. The participants understood the navigation, layout and picked up on most functions and features. However, some participants were confused with the wording of certain toggle headings so iterations were made to provide clarity. Also, info buttons were added to specific screens to further explain processes for users should they need it without having to click to another screen. </p>
 
-			<p>Below are snippets of the final interface design screens. To view the rest of the app screens, please view the <a href="">UX Strategy</a>.</p>
+			<p>Below are snippets of the final interface design screens.</p>
 		</div>
 
 		<div class="photo-wrapper-app">
