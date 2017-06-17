@@ -660,6 +660,29 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
   margin-bottom: 10px;
 }
 
+.description a{
+  color: #323131;
+}
+
+.description a:hover{
+  color: #DAA520;
+}
+
+.bullet-list,.bullet{
+  width: 60%;
+  margin: 0 auto;
+  line-height: 1.4em;
+  font-size: 1.1em;
+  padding-bottom: 18px;
+}
+
+.bullet-list{
+    list-style-type: circle;
+}
+
+
+
+
 span.bold{
   font-family: 'Lato', sans-serif;
   font-weight: 900;
