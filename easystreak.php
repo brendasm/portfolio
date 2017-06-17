@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Brenda Lau | Easy Streak Project </title>
+	<title>Brenda Lau | Easy Streak Redesign </title>
 	<?php include 'include/header.php'; // includes all header content ?>
 </head>
 
@@ -68,7 +68,9 @@
 		</div> <!-- end description -->
 
 		<div class="description">
-			<p><span class="bold">UX Strategy</span>Based on research findings and from user interviews, the UI redesign includes the following elements:</p>
+			<p><span class="bold">UX Strategy</span>Based on research findings and from user interviews, I then developed a UX </p>
+
+			<p>UI redesign includes the following elements:</p>
 			<ul class="bullet-list">
 				<li>Simplifying the interface and improve navigation</li>
 				<li>Streamlining the process to enter a contest</li>
