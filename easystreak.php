@@ -68,7 +68,9 @@
 		</div> <!-- end description -->
 
 		<div class="description">
-			<p><span class="bold">UX Strategy</span>Based on research findings and from user interviews, I then developed a UX </p>
+			<p><span class="bold">UX Strategy</span>Based on research findings and from user interviews, I then created a sitemap to show the relationship between features and the touch points for the users. </p>
+
+			<p>Working from the structure of the site map, I began the design process with a user flow and wireframe sketches. I worked with the client for feedback on the design and iterated along the way. </p>
 
 			<p>UI redesign includes the following elements:</p>
 			<ul class="bullet-list">
@@ -99,8 +101,21 @@
 			</div>
 			<div class="photo">
 				<img src="images/project/easystreak/es-wireframe-2.JPG" alt="Easy Streak Wireframe" title="Easy Streak Wireframe">
-			</div>		
+			</div>
+			<div class="photo-reg">
+				<img src="images/project/easystreak/es-changes-1.png" alt="Easy Streak UI Changes" title="Easy Streak UI Changes">
+			</div>
+			<div class="photo-reg">
+				<img src="images/project/easystreak/es-changes-2.jpg" alt="Easy Streak UI Changes" title="Easy Streak UI Changes">
+			</div>									
 		</div> <!-- end photo wrapper -->
+
+		<div class="description">
+			<p>I also conducted usability testing on the design prototype from sketch. The participants understood the navigation, layout and picked up on most functions and features. However, some participants were confused with the wording of certain toggle headings so iterations were made to provide clarity. Also, info buttons were added to specific screens to further explain processes for users should they need it without having to click to another screen. </p>
+		</div>
+
+		<div class="photo-wrapper-app">
+		</div>
 
 
 
