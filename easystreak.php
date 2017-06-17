@@ -112,10 +112,100 @@
 
 		<div class="description">
 			<p>I also conducted usability testing on the design prototype from sketch. The participants understood the navigation, layout and picked up on most functions and features. However, some participants were confused with the wording of certain toggle headings so iterations were made to provide clarity. Also, info buttons were added to specific screens to further explain processes for users should they need it without having to click to another screen. </p>
+
+			<p>Below are snippets of the final interface design screens. To view the rest of the app screens, please view the <a href="">UX Strategy</a>.</p>
 		</div>
 
 		<div class="photo-wrapper-app">
-		</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/1-login-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/1-login-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/1-login-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/1-login-d.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>												
+		</div> <!-- end photo wrapper app row 1 -->
+
+		<div class="photo-wrapper-app">
+			<div class="app">
+				<img src="images/project/easystreak/artboards/2-lobby-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/2-lobby-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/2-lobby-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/2-lobby-d.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>												
+		</div> <!-- end photo wrapper app row 2 -->	
+
+		<div class="photo-wrapper-app">
+			<div class="app">
+				<img src="images/project/easystreak/artboards/3-upcoming-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/3-upcoming-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/3-upcoming-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/4-scores-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>												
+		</div> <!-- end photo wrapper app row 3 -->	
+
+		<div class="photo-wrapper-app">
+			<div class="app">
+				<img src="images/project/easystreak/artboards/4-scores-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/4-scores-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/5-leaderboard-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/5-leaderboard-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>												
+		</div> <!-- end photo wrapper app row 4 -->
+
+		<div class="photo-wrapper-app">
+			<div class="app">
+				<img src="images/project/easystreak/artboards/6-account-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/6-account-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/6-account-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/6-account-d.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>												
+		</div> <!-- end photo wrapper app row 5 -->				
+
+		<div class="photo-wrapper-app">
+			<div class="app">
+				<img src="images/project/easystreak/artboards/6-account-e.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/6-account-f.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/6-account-g.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>
+			<div class="app">
+				<img src="images/project/easystreak/artboards/6-account-h.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+			</div>												
+		</div> <!-- end photo wrapper app row 6 -->
+
 
 
 
