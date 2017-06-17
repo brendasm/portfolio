@@ -4,7 +4,7 @@
 
 $(function(){
     $(".typewrite").typed({
-	  strings: ["I'm Brenda, a UX/UI designer & developer based in Los Angeles, CA."],
+	  strings: ["I'm Brenda, a UX/UI designer & web developer."],
       typeSpeed: 30,
       contentType: 'text'
     });
@@ -35,4 +35,3 @@ $btnabout.click(function(){
 $btnclose.click(function(){
 	$wrapper.removeClass('show-menu');
 });
-

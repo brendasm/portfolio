@@ -302,7 +302,7 @@ body{
 }
 
 .header-info{
-  width: 40%;
+  width: 60%;
   margin: 0 auto;
   text-align: center;
   font-family: 'Lato', sans-serif;
@@ -685,15 +685,11 @@ background-image: url('../images/project/hero-image/banner-jquery.jpg');
     list-style-type: circle;
 }
 
-
-
-
 span.bold{
   font-family: 'Lato', sans-serif;
   font-weight: 900;
   font-size: 0.9em;
   text-transform: uppercase;
-
 }
 
 span.bold:after{
@@ -844,6 +840,24 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
   font-weight: 400;
 }
 
+.go-top {
+  position: fixed;
+  bottom: 30px;
+  right: 12px;
+  text-decoration: none;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 0.8em;
+  padding: 15px;
+  display: none;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.go-top:hover {
+  background-color: black;
+  color: #DAA520;
+}
 
 /* -- media queries begin --*/
 
@@ -983,6 +997,10 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
     background-color: black;
       -ms-flex-pack: center;  
       justify-content: center;
+  }
+
+  .go-top{
+    bottom: 80px;
   }
 
   .nav-bar a{

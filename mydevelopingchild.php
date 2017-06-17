@@ -104,11 +104,13 @@
 		</div> <!-- end showcase wrapper -->
 	</main>	
 
+	<a href="#" class="go-top">Top</a>
 
 	<?php include 'include/footer.php'; // include footer ?>
 
 	<script src="scripts/jquery-3.2.1.min.js"></script>
 	<script src="scripts/scripts.js"></script>
+	<script src="scripts/backtotop.js"></script>
 
 </body>
 </html>
