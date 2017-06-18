@@ -302,7 +302,7 @@ body{
 }
 
 .header-info{
-  width: 60%;
+  width: 350px;
   margin: 0 auto;
   text-align: center;
   font-family: 'Lato', sans-serif;
@@ -840,6 +840,32 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
   font-weight: 400;
 }
 
+.es1{
+  background-color: #00DC60;
+}
+
+.es2{
+  background-color: #4070C3;
+}
+
+.es3{
+  background-color: #FE5D3E;
+}
+
+.es4{
+  background-color: #2C2C2C;
+}
+
+.es5{
+  background-color: #848181;
+}
+
+.es1 p, .es2 p, .es3 p, .es4 p, .es5 p{
+  color: white;
+}
+
+
+
 .go-top {
   position: fixed;
   bottom: 30px;
@@ -878,9 +904,8 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
     width: 92%;
   }
 
-  .header-info,
   .header-logo{
-    width: 50% ;
+    width: 37% ;
   }
 
 }
@@ -899,7 +924,6 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 
 @media screen and (max-width: 1020px){
 
-  .header-info,
   .header-logo{
     width: 57% ;
   }
@@ -917,7 +941,6 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
 
 @media screen and (max-width: 895px){
 
-  .header-info,
   .header-logo{
     width: 63% ;
   }  
@@ -940,7 +963,6 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
     width: 87%;
   }
 
-  .header-info,
   .header-logo{
     width: 70% ;
   }
@@ -964,7 +986,6 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
     margin-right: 2.5%;
   }
 
-  .header-info,
   .header-logo{
     width: 78% ;
   }
@@ -1039,6 +1060,10 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
     padding-bottom: 80px;
   }
 
+  .header-info{
+    width: 275px;
+  }
+
   .header-info h1{
     font-size: 3em;
   }
@@ -1090,10 +1115,6 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
   }
 
   .photo-wrapper-app{
-    flex-wrap:wrap;
-  }
-
-  .photo-wrapper-app{
     -ms-flex-wrap:wrap;
         flex-wrap:wrap;
   }
@@ -1130,7 +1151,6 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
     padding: 15px 52px;
   }  
 
-  .header-info,
   .header-logo{
     width: 85% ;
   }
@@ -1157,7 +1177,10 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
     width: 100%;
   }
 
-  .header-info,
+  .header-info{
+    width: 240px;
+  }
+
   .header-logo{
     width: 90% ;
   }
@@ -1206,11 +1229,8 @@ box-shadow: 1px 3px 23px -1px rgba(0,0,0,0.75);
     padding: 15px 36px;
   }
 
-  .header-info,
   .header-logo{
     width: 100% ;
   }
 
 }
-
-

@@ -85,7 +85,7 @@
 
 
 			<div class="description">
-				<p><span class="bold">UX Strategy</span>Based on research findings and from user interviews, I then created a sitemap to show the relationship between features and the touch points for the users. </p>
+				<p><span class="bold">UX Strategy</span> &nbsp; Based on research findings and from user interviews, I then created a sitemap to show the relationship between features and the touch points for the users. </p>
 
 				<p>Working from the structure of the site map, I began the design process with a user flow and wireframe sketches. I worked with the client for feedback on the design and iterated along the way. </p>
 
@@ -222,6 +222,18 @@
 					<img src="images/project/easystreak/artboards/6-account-h.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
 				</div>												
 			</div> <!-- end photo wrapper app row 6 -->
+
+			<div class="description">
+				<p><span class="bold">Colors</span>For the color palette, I stuck with the original brand colors (green, black, light gray) and incorporated the colors of orange and blue to bring the visual design together. </p>
+			</div>
+
+			<div class="swatch">
+				<div class="swatch-single es5"><p>#848181</p></div>
+				<div class="swatch-single es1"><p>#00DC60</p></div>
+				<div class="swatch-single es2"><p>#4070C3</p></div>
+				<div class="swatch-single es3"><p>#FE5D3E</p></div>	
+				<div class="swatch-single es4"><p>#2C2C2C</p></div>	
+			</div> <!-- end swatch -->
 
 		</div> <!-- end showcase wrapper -->
 	</main>
