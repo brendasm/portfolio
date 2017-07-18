@@ -45,7 +45,10 @@
 				<div class="border"></div>
 
 				<div class="description">
-					<p><span class="bold">Content Strategy</span> &nbsp; For the strategy, we first began with a design sprint to generate as many ideas as possible in order to understand, define and decide on the direction of our design. From there, we established goals, target audiences and interviewed users to develop fact based personas and empathy maps. The strategy also includes an information architecture and competitive gap analysis where the voting websites of four countries were compared against ‘Elections Canada’. </p>	
+					<p><span class="bold">Content Strategy</span> &nbsp; For the strategy, we first began with a design sprint to generate as many ideas as possible in order to understand, define and decide on the direction of our design. From there, we established user and steakholder goals, target audiences and interviewed users to develop fact based personas and empathy maps. We interviewed a total of 25 users for this case study. </p>
+
+					<p> The strategy also includes an information architecture and competitive gap analysis where the voting websites of four countries were compared against ‘Elections Canada’. The countries that were chosen for the analysis have diverse demographics and well established voting systems in place that reflect similarities to that of Canada's system. </p>	
+					
 					<p><span class="bold">Proposal</span> &nbsp; The proposal brings together key elements to redesign the current Elections Canada website with a focus on the “How to Vote” section. The proposed redesign would focus on a clean, modern approach and would include the change of fonts, colors and layout of the overall site. In addition, the use of more images will provide a better visual reference and appeal to more users visiting the site.  </p>
 				</div>
 
