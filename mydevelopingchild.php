@@ -50,9 +50,35 @@
 				<div class="border"></div>
 
 				<div class="description">
-					<p><span class="bold">Initial Meeting</span> &nbsp; We had an in-person discovery meeting with the client to understand the purpose, target audience, design features, colors etc. for the development of the site. </p>
-					<p><span class="bold">Process</span> &nbsp; From the details uncovered in the discovery meeting, we then created the information architecture and wireframes. </p>
+					<p><span class="bold">Initial Meeting</span> &nbsp; We had an in-person discovery meeting with the client to better understand the scope of the project and the following information: </p>
+
+					<ul class="bullet-list">
+						<li>Objective of the site</li>
+						<li>Priorities to consider for the development of the site</li>
+						<li>Users or target audience</li>
+						<li>The primary task users are looking to accomplish when using site </li>
+						<li>Competitors</li>
+						<li>Design features</li>
+						<li>Brand guideline/colors/typefaces</li>
+						<li>Style/tone or imagery to consider</li>
+					</ul>
+
+					<p><span class="bold">Process</span> &nbsp; From the details uncovered in the discovery meeting, we then began the research phase. We worked with the client to conduct 5 in-person interviews and 15 survey interviews of users (parents) selected from various advocacy groups.</p>
 				</div> <!-- end description -->
+
+				<div class="description">
+					<p><span class="bold">Key Findings</span></p>
+					<ul class="bullet-list">
+						<li>Average age of users are 25-35 years old</li>
+						<li>Users would spend approximately 10 minutes visiting a health education site</li>
+						<li>Users would revisit a site if there are current news/events that are frequently updated</li>
+						<li>Users prefer to view sites on desktop for more in depth analysis. However, when they are on the go, they enjoy a mobile friendly site for quick information </li>
+						<li>Users expect to find clear, easy to locate content/information that does not have a lot jargon</li>
+						<li>Besides health education sites, users would also frequent blogs, WebMD and advocacy sites </li>
+						<li>If the site has social media links, users are likely to follow to get access of more information </li>
+						<li>Users are frustrated by sites that are vague, hard to navigate (don’t know where to click next) and do not have credible sources</li>
+					</ul>
+				</div>
 
 				<div class="photo-wrapper">
 					<div class="photo-reg">
@@ -81,7 +107,7 @@
 				</div>
 
 				<div class="description">
-					<p><span class="bold">User Testing</span> &nbsp; For the final portion of the project, we conducted a site testing to determine the usability and efficiency of the site. The site testing allowed us to observe a user’s interaction with the interface, layout and content and to validate specific features that were incorporated into the site. For more detailed information, please view the pdf site testing report below. </p>	
+					<p><span class="bold">User Testing</span> &nbsp; For the final portion of the project, we conducted a site testing to determine the usability and efficiency of the site. The site testing allowed us to observe a user’s interaction with the interface, layout and content and to validate specific features that were incorporated into the site. Overall, the testing provided a lot of valuable feedback to the design and development of the site. For a more in depth analysis, please view the pdf site testing report below. </p>	
 				</div>
 
 				<a href="/projects/mdc-site-testing-report.pdf" class="btn-project-pg" title="View Report" target="_blank">Site Testing Report</a>
