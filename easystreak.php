@@ -34,14 +34,16 @@
 			<div class="description">
 				<p>Easy streak is a gaming app that offers sports fans a platform to compete in daily sport contests/pools where they are able to select the winning teams of NBA, NHL, MLB, NFL and MLS games to win cash prizes. The platform allows users to select teams in a “pick’em” format instead of selecting against a spread or betting on the money line. For more information, visit the <a href="http://www.easystreak.com/" title="Easy Streak Website" target="_blank">Easy Streak</a> website. </p>
 
-				<p><span class="bold">Project Scope &amp; Goals</span>&nbsp;I was connected with the founder of Easy Streak to redesign the user interface, visual design and improve the overall user experience of the gaming app. The app redesign aims to achieve two main goals: increase the user adoption rate and provide a trustworthy and valuable experience for users. </p>
+				<p><span class="bold">Project Scope &amp; Goals</span>&nbsp;I was connected with the founder of Easy Streak to redesign the user interface, visual design and improve the overall user experience of the gaming app. </p>
+
+				<p> The app redesign aims to achieve two main goals: increase the user adoption rate and provide a trustworthy and valuable experience for users. </p>				
 			</div> <!-- end description -->
 
 			<div class="border"></div>
 
 			<div class="photo-wrapper">
 				<div class="photo-reg">
-					<img src="images/project/easystreak/es-1.png" alt="My Developing Child iphone" title="My Developing Child iphone">
+					<img src="images/project/easystreak/es-1.png" alt="ES iphone" title="ES iphone">
 				</div>
 			</div>
 
@@ -75,10 +77,10 @@
 
 			<div class="photo-wrapper">
 				<div class="photo-reg">
-					<img src="images/project/easystreak/es-persona-1.png" alt="Easy Streak Persona" title="Easy Streak Persona">
+					<img src="images/project/easystreak/es-persona-1.png" alt="ES Persona" title="ES Persona">
 				</div>
 				<div class="photo-reg">
-					<img src="images/project/easystreak/es-persona-2.png" alt="Easy Streak Persona" title="Easy Streak Persona">
+					<img src="images/project/easystreak/es-persona-2.png" alt="ES Persona" title="ES Persona">
 				</div>
 			</div> <!-- end photo wrapper -->
 
@@ -111,7 +113,7 @@
 
 			<div class="photo-wrapper">
 				<div class="photo-reg">
-					<img src="images/project/easystreak/es-userflow.png" alt="Easy Streak User flow" title="Easy Streak User flow">
+					<img src="images/project/easystreak/es-userflow.png" alt="ES User flow" title="ES User flow">
 				</div>
 			</div>
 
@@ -121,31 +123,31 @@
 
 			<div class="photo-wrapper-app">
 				<div class="app">
-					<img src="images/project/easystreak/prev-design/es-prev-1.png" alt="" title="">
+					<img src="images/project/easystreak/prev-design/es-prev-1.png" alt="ES Prev Design" title="ES Prev Design">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/prev-design/es-prev-2.png" alt="" title="">
+					<img src="images/project/easystreak/prev-design/es-prev-2.png" alt="ES Prev Design" title="ES Prev Design">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/prev-design/es-prev-3.png" alt="" title="">
+					<img src="images/project/easystreak/prev-design/es-prev-3.png" alt="ES Prev Design" title="ES Prev Design">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/prev-design/es-prev-4.png" alt="" title="">
+					<img src="images/project/easystreak/prev-design/es-prev-4.png" alt="ES Prev Design" title="ES Prev Design">
 				</div>				
 			</div>
 
 			<div class="photo-wrapper">
 				<div class="photo">
-					<img src="images/project/easystreak/es-wireframe-1.JPG" alt="Easy Streak Wireframe" title="Easy Streak Wireframe">
+					<img src="images/project/easystreak/es-wireframe-1.JPG" alt="Easy Streak Wireframe" title="ES Wireframe">
 				</div>
 				<div class="photo">
-					<img src="images/project/easystreak/es-wireframe-2.JPG" alt="Easy Streak Wireframe" title="Easy Streak Wireframe">
+					<img src="images/project/easystreak/es-wireframe-2.JPG" alt="Easy Streak Wireframe" title="ES Wireframe">
 				</div>
 				<div class="photo-reg">
-					<img src="images/project/easystreak/es-changes-1.png" alt="Easy Streak UI Changes" title="Easy Streak UI Changes">
+					<img src="images/project/easystreak/es-changes-1.png" alt="Easy Streak UI Changes" title="ES UI Changes">
 				</div>
 				<div class="photo-reg">
-					<img src="images/project/easystreak/es-changes-2.jpg" alt="Easy Streak UI Changes" title="Easy Streak UI Changes">
+					<img src="images/project/easystreak/es-changes-2.jpg" alt="Easy Streak UI Changes" title="ES UI Changes">
 				</div>									
 			</div> <!-- end photo wrapper -->
 
@@ -159,91 +161,91 @@
 
 			<div class="photo-wrapper-app">
 				<div class="app">
-					<img src="images/project/easystreak/artboards/1-login-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/1-login-a.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/1-login-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/1-login-b.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/1-login-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/1-login-c.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/1-login-d.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/1-login-d.png" alt="ES App Screen" title="ES App Screen">
 				</div>												
 			</div> <!-- end photo wrapper app row 1 -->
 
 			<div class="photo-wrapper-app">
 				<div class="app">
-					<img src="images/project/easystreak/artboards/2-lobby-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/2-lobby-a.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/2-lobby-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/2-lobby-b.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/2-lobby-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/2-lobby-c.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/2-lobby-d.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/2-lobby-d.png" alt="ES App Screen" title="ES App Screen">
 				</div>												
 			</div> <!-- end photo wrapper app row 2 -->	
 
 			<div class="photo-wrapper-app">
 				<div class="app">
-					<img src="images/project/easystreak/artboards/3-upcoming-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/3-upcoming-a.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/3-upcoming-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/3-upcoming-b.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/3-upcoming-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/3-upcoming-c.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/4-scores-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/4-scores-a.png" alt="ES App Screen" title="ES App Screen">
 				</div>												
 			</div> <!-- end photo wrapper app row 3 -->	
 
 			<div class="photo-wrapper-app">
 				<div class="app">
-					<img src="images/project/easystreak/artboards/4-scores-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/4-scores-b.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/4-scores-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/4-scores-c.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/5-leaderboard-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/5-leaderboard-a.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/5-leaderboard-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/5-leaderboard-b.png" alt="ES App Screen" title="ES App Screen">
 				</div>												
 			</div> <!-- end photo wrapper app row 4 -->
 
 			<div class="photo-wrapper-app">
 				<div class="app">
-					<img src="images/project/easystreak/artboards/6-account-a.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/6-account-a.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/6-account-b.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/6-account-b.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/6-account-c.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/6-account-c.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/6-account-d.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/6-account-d.png" alt="ES App Screen" title="ES App Screen">
 				</div>												
 			</div> <!-- end photo wrapper app row 5 -->				
 
 			<div class="photo-wrapper-app">
 				<div class="app">
-					<img src="images/project/easystreak/artboards/6-account-e.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/6-account-e.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/6-account-f.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/6-account-f.png" alt="ES App Screen" title="EES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/6-account-g.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/6-account-g.png" alt="ES App Screen" title="ES App Screen">
 				</div>
 				<div class="app">
-					<img src="images/project/easystreak/artboards/6-account-h.png" alt="Easy Streak App Screen" title="Easy Streak App Screen">
+					<img src="images/project/easystreak/artboards/6-account-h.png" alt="ES App Screen" title="ES App Screen">
 				</div>												
 			</div> <!-- end photo wrapper app row 6 -->
 
