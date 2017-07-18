@@ -84,8 +84,6 @@
 				</div>
 			</div> <!-- end photo wrapper -->
 
-
-
 			<div class="description">
 				<p><span class="bold">UX Strategy</span> &nbsp; Based on research findings and from user interviews, I then created a sitemap to show the relationship between features and the touch points for the users. </p>
 
