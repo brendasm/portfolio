@@ -40,8 +40,9 @@
 				</div> <!-- end skills	 -->
 
 				<div class="description">
-					<p>My Developing Child is an educational website for a non-profit organization that focuses on bringing awareness to autism and provides information from screening, signs, diagnosis, management and advocacy support groups.  The main requirements for the design and development of this project was to create a clean, easy to navigate and family friendly site.  </p>
-					<p>The project was completed over a tight span of five weeks and was a collaborative effort with two other awesome team members. We worked closely with our client, based in Utah, to establish the development of the site. </p>
+					<p>My Developing Child is an educational website for a biotech company’s non-profit sector. The website focuses on bringing awareness to autism and provides information from screening, signs, diagnosis, management and advocacy support groups.</p>
+					<p><span class="bold">Project Goals</span>The goal of this project aims to achieve two goals: to educate users/parents on the genetic cause of autism and to increase the number of sign ups.</p>
+					<p>The design and development of this project provides a clean, easy to navigate, and family friendly site that is accessible by all devices. The overall project was completed in a tight span of five weeks and was a collaborative effort with two other awesome team members. We worked closely with our client, based in Utah, to establish the development of the site.</p>
 				</div> <!-- end description -->
 
 				<a href="http://mydevelopingchild.org/" class="btn-project-pg" title="View Project" target="_blank">View Live</a>
