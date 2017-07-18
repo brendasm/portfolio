@@ -113,6 +113,28 @@
 				<div class="photo-reg">
 					<img src="images/project/easystreak/es-userflow.png" alt="Easy Streak User flow" title="Easy Streak User flow">
 				</div>
+			</div>
+
+			<div class="description">
+			<p><span class="bold">Previous Design</span>Below are a few snippets of Easy Streak's previous design.</p>
+			</div>
+
+			<div class="photo-wrapper-app">
+				<div class="app">
+					<img src="images/project/easystreak/prev-design/es-prev-1.png" alt="" title="">
+				</div>
+				<div class="app">
+					<img src="images/project/easystreak/prev-design/es-prev-2.png" alt="" title="">
+				</div>
+				<div class="app">
+					<img src="images/project/easystreak/prev-design/es-prev-3.png" alt="" title="">
+				</div>
+				<div class="app">
+					<img src="images/project/easystreak/prev-design/es-prev-4.png" alt="" title="">
+				</div>				
+			</div>
+
+			<div class="photo-wrapper">
 				<div class="photo">
 					<img src="images/project/easystreak/es-wireframe-1.JPG" alt="Easy Streak Wireframe" title="Easy Streak Wireframe">
 				</div>
@@ -128,9 +150,11 @@
 			</div> <!-- end photo wrapper -->
 
 			<div class="description">
-				<p>I also conducted usability testing on the design prototype from sketch. The participants understood the navigation, layout and picked up on most functions and features. However, some participants were confused with the wording of certain toggle headings so iterations were made to provide clarity. Also, info buttons were added to specific screens to further explain processes for users should they need it without having to click to another screen. </p>
+				<p><span class="bold">Prototype and Test</span> &nbsp; I also conducted usability testing on 6 users through a clickable prototype created through Invision. The participants understood the navigation, layout and picked up on most functions and features. However, some participants were confused with the wording of certain toggle headings so iterations were made to provide clarity. In addition, info buttons were added to specific screens to further explain processes for users should they need it without having to click to another screen. </p>
+			</div>
 
-				<p>Below are snippets of the final interface design screens.</p>
+			<div class="description">
+				<p><span class="bold">Final Design</span> &nbsp; Below are snippets of the final interface design screens.</p>
 			</div>
 
 			<div class="photo-wrapper-app">
