@@ -1,2 +1,2 @@
 # portfolio
-New Portfolio to include UX Process
+Original portfolio to showcase web and ux projects - easy streak, election canada, my developing child etc. 
